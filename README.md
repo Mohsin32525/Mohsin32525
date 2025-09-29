@@ -11,7 +11,21 @@
 <p align="center">
   <a href="https://github.com/Mohsin32525"><img src="https://img.shields.io/github/followers/Mohsin32525?label=Follow&style=social" alt="GitHub Badge"></a>
   <a href="mailto:bhatjones@gmail.com"><img src="https://img.shields.io/badge/email-Contact-yellow?style=flat&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/mohsin-n-bhat/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn"></a>
 </p>
 
 <h2>About Me</h2>
-<p>MS in Bioinformatics | Italy | GitHub Enthusiast</p>
+<p>MS in Bioinformatics | Italy | GitHub Enthusiast | Passionate about coding & bioinformatics</p>
+
+<h2 align="center">📊 GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohsin32525&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohsin32525&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<h2 align="center">✨ Connect with Me</h2>
+<p align="center">
+  <a href="https://github.com/Mohsin32525"><img src="https://img.shields.io/github/followers/Mohsin32525?label=Follow&style=social" alt="GitHub Badge"></a>
+  <a href="mailto:bhatjones@gmail.com"><img src="https://img.shields.io/badge/email-Contact-yellow?style=flat&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/mohsin-n-bhat/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn"></a>
+</p>
