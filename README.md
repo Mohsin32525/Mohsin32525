@@ -1,4 +1,4 @@
-<h1 align="center">,Hello! Welcome to my my GitHub</h1>
+<h1 align="center">Hello! Welcome to my my GitHub</h1>
 
 <p align="center">
   <img src="https://github.com/Mohsin32525/yourusername/blob/main/pacman-contributions.svg" alt="Pac-Man GitHub Contributions" />
