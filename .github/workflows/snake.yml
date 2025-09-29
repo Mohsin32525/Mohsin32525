@@ -1,18 +1,9 @@
-- name: Commit & push
-  run: |
-    mkdir -p dist
-    git config user.name github-actions[bot]
-    git config user.email 41898282+github-actions[bot]@users.noreply.github.com
-    git add dist/snake.svg
-    git commit -m "update snake animation" || echo "No changes"
-    git push
-
 name: Generate contribution-snake
 
 on:
   schedule:
-    - cron: "0 2 * * *"
-  workflow_dispatch:
+    - cron: "0 2 * * *"   # runs every day at 2am UTC
+  workflow_dispatch:       # allow manual trigger
 
 jobs:
   build:
@@ -32,9 +23,9 @@ jobs:
 
       - name: Commit & push
         run: |
+          mkdir -p dist
           git config user.name github-actions[bot]
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
           git add dist/snake.svg
           git commit -m "update snake animation" || echo "No changes"
           git push
-
