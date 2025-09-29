@@ -4,7 +4,8 @@
 <h1 align="center">Hello! Welcome to my GitHub</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mohsin32525/your-pacman-repo/main/pacman-contributions.svg" alt="Pac-Man GitHub Contributions" />
+  <!-- Real GitHub contributions graph -->
+  ![Mohsin's GitHub Contributions](https://github.com/Mohsin32525.png)
 </p>
 
 <p align="center">
