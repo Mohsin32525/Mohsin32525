@@ -1,3 +1,5 @@
+![Contribution Snake](https://raw.githubusercontent.com/mohsin-bhat/mohsin-bhat/main/dist/snake.svg)
+
 <h1 align="center">Hello! Welcome to my my GitHub</h1>
 
 <p align="center">
