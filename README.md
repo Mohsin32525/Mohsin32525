@@ -6,5 +6,5 @@
 
 <p align="center">
   <a href="https://github.com/Mohsin32525"><img src="https://img.shields.io/github/followers/Mohsin32525?label=Follow&style=social" alt="GitHub Badge"></a>
-  <a href="bhatjones@gmail.com"><img src="https://img.shields.io/badge/email-Contact-red?style=flat&logo=gmail"></a>
+  <a href="bhatjones@gmail.com"><img src="https://img.shields.io/badge/email-Contact-im_mosin=flat&logo=gmail"></a>
 </p>
