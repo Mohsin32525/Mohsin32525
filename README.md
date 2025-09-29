@@ -1,5 +1,5 @@
 <!-- Contribution Snake at the top -->
-![Contribution Snake](https://raw.githubusercontent.com/mohsin-bhat/mohsin-bhat/main/dist/snake.svg)
+![Contribution Snake](https://github.com/Mohsin32525/mohsin-bhat/raw/refs/heads/main/dist/snake.svg)
 
 <h1 align="center">Hello! Welcome to my GitHub</h1>
 
