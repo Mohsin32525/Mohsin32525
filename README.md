@@ -55,7 +55,7 @@
 ## 📫 Connect with Me
 <p align="center">
   <a href="https://github.com/Mohsin32525"><img src="https://img.shields.io/github/followers/Mohsin32525?label=Follow&style=social" alt="GitHub"></a>
-  <a href="mailto:mohsinnazir,bhat@studio.unibo.it"><img src="https://img.shields.io/badge/Email-bhatjones%40gmail.com-yellow?style=flat&logo=gmail"></a>
+  <a href="mailto:mohsinnazir,bhat@studio.unibo.it"><img src="https://img.shields.io/badge/Email-mohsin%40gmail.com-yellow?style=flat&logo=gmail"></a>
   <a href="https://www.linkedin.com/in/mohsin-nazir-03a579282/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"></a>
   <img src="https://komarev.com/ghpvc/?username=Mohsin32525&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 </p>
