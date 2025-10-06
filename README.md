@@ -9,10 +9,10 @@
 ---
 
 ## 👨‍💻 About Me
-💡 I have an **endless love for coding ❤️** — it’s not just what I do, it’s who I am.  
-🧬 Passionate about combining **bioinformatics + programming** to solve real-world biological problems.  
-🏏 All-rounder cricketer for **Bologna Stars**.  
-🌍 Always curious, always learning.  
+I have an **endless love for coding ** — it’s not just what I do, it’s who I am.  
+Passionate about combining **bioinformatics + programming** to solve real-world biological problems.  
+ All-rounder cricketer for **Bologna Stars**.  
+
 
 ---
 
